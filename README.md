@@ -27,12 +27,12 @@ I built an interactive and user-friendly Power BI dashboard for XGRIP, a simulat
 
 ### **Execution Steps**  
 
-1. **Data Integration:** Connected to various sources (PostgreSQL, MySQL, Excel, CSV, and PDFs) for a comprehensive dataset.  
-2. **Data Standardization:** Converted local currencies to USD using exchange rates for consistent reporting.  
-3. **Data Modeling:** Established relationships between tables, merged product data, and calculated profitability.  
-4. **Dashboard Design:** Developed interactive dashboards with multiple pages and visualizations like donut charts, bar charts, and maps.  
-5. **Advanced Calculations:** Created dynamic DAX measures for KPIs such as revenue, profit, and YoY growth.  
-6. **Automation & Security:** Implemented automated data refresh and configured RLS for secure data access.
+1. **Data Integration:** Connected to multiple data sources including PostgreSQL, MySQL, Excel, CSV, and PDFs to build a complete and unified dataset.
+2. **Data Standardization:** Applied currency conversion logic to standardize local currencies into USD for consistent global reporting. 
+3. **Data Modeling:** Defined relationships between tables, merged product data, and built calculated columns to support profitability analysis.
+4. **Dashboard Design:** Created interactive, multi-page dashboards using donut charts, bar charts, maps, slicers, and buttons for a better user experience.
+5. **Advanced Calculations:** Used DAX to develop dynamic KPIs like revenue, profit margin, and YoY growth for deep performance tracking.
+6. **Automation & Security:** Set up scheduled data refresh with Power BI Gateway and implemented Row-Level Security (RLS) to control data access by user role.
 
 ---
 
