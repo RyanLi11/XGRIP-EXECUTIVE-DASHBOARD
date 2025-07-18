@@ -20,10 +20,13 @@ I built an interactive and user-friendly Power BI dashboard for XGRIP, a simulat
 - **Advanced DAX Calculations:** Created KPIs for revenue, profit margin, and YoY sales growth.  
 - **Row-Level Security (RLS):** Implemented role-based access controls to protect sensitive data and limit visibility by user level.
 
+
 ### **Technology Used**  
 - **Data Sources:** PostgreSQL, MySQL, Excel, CSV, PDF.  
 - **Tools:** Power BI, Power Query, DAX.  
 - **Gateway:** Power BI Gateway for scheduled refresh.
+
+
 
 ### **Execution Steps**  
 
