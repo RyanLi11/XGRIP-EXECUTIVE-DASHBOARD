@@ -38,7 +38,8 @@ I built an interactive and user-friendly Power BI dashboard for XGRIP, a simulat
 
 ## **Impact**  
 
-The dashboard provides clear and actionable insights into sales, profits, and product performance, enabling the XGRIP team to make data-driven decisions. It offers users a visually appealing interface with interactive features and seamless data updates, significantly improving the efficiency of business reporting and analysis.
+The dashboard delivers clear, actionable insights into sales, profits, and product performance, helping the XGRIP team make more informed, data-driven decisions. With a clean, interactive interface and automated data refresh, it significantly improves reporting efficiency and enhances the overall decision-making process.
+
 
 ---
 
