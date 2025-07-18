@@ -2,18 +2,6 @@
 
 ![](https://github.com/RyanLi11/XGRIP-EXECUTIVE-DASHBOARD/blob/main/Screenshot%202025-07-18%20165935.png)
 
-### **Light and Dark Executive Dashboard**  
-![]Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)  
-
-### **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
-
-### **Product Analysis Dashboard**  
-![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
-
-### **Map Analysis Dashboard**  
-![Map Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20map.png)  
-
 ---
 
 ## **Objective**  
