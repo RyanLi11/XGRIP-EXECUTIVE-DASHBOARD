@@ -47,11 +47,11 @@ The dashboard delivers clear, actionable insights into sales, profits, and produ
 ---
 
 ## **Key Learnings**  
-- **Multi-Source Integration:** Gained expertise in unifying data from diverse formats and platforms.  
-- **Advanced Data Transformation:** Enhanced skills in Power Query for effective data cleaning and merging.  
-- **DAX Proficiency:** Mastered complex DAX calculations for dynamic business insights.  
-- **Interactive Design:** Developed user-centric dashboards with an emphasis on interactivity and usability.  
-- **Automation & Security:** Learned to automate data refresh and implement security features like RLS.
+- **Multi-Source Integration:** Strengthened my ability to combine data from PostgreSQL, MySQL, Excel, CSV, and PDFs into a single, clean data model.  
+- **Advanced Data Transformation:**  Improved Power Query skills for cleaning, merging, and shaping complex datasets.
+- **DAX Proficiency:** Gained experience writing advanced DAX measures for KPIs like YoY growth, profit margin, and revenue. 
+- **Interactive Design:**  Learned to create intuitive, user-friendly dashboards with slicers, drillthroughs, and bookmarks.  
+- **Automation & Security:** Set up automated data refresh via Power BI Gateway and implemented Row-Level Security (RLS) for secure access control.
 
 ---
 
