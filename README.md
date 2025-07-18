@@ -73,7 +73,7 @@ The dashboard delivers clear, actionable insights into sales, profits, and produ
 ---
 
 ## **Access the Dashboard**  
-Explore the live dashboard here: **[Link to Online Reports Page](<iframe title="Ryan Li's Xgrip Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmZiNzgwNzYtMzc0ZC00MzYyLWEwMjgtMWU5ODE1MzBiNzg0IiwidCI6IjUxY2NhMGUxLTJkNWEtNGQxYi1hYTlhLWRkYWFhNzhhZWVjMiJ9" frameborder="0" allowFullScreen="true"></iframe>)**  
+Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/view?r=eyJrIjoiNmZiNzgwNzYtMzc0ZC00MzYyLWEwMjgtMWU5ODE1MzBiNzg0IiwidCI6IjUxY2NhMGUxLTJkNWEtNGQxYi1hYTlhLWRkYWFhNzhhZWVjMiJ9)**  
 
 ---
 
