@@ -5,7 +5,7 @@
 ---
 
 ## **Objective**  
-Create an interactive, user-friendly dashboard for XGRIP, a company specializing in mobile phone accessories. The dashboard integrates multi-source data, standardizes currencies, and provides detailed insights into sales, profits, product performance, and returns. It aims to streamline data analysis, helping stakeholders make informed business decisions.
+I built an interactive and user-friendly Power BI dashboard for XGRIP, a simulated company that sells mobile phone accessories. The dashboard brings together data from multiple sources, standardizes currencies, and delivers insights on sales, profit, product performance, and returns. The goal was to simplify data analysis and help stakeholders make better business decisions based on real-time insights.
 
 ---
 
