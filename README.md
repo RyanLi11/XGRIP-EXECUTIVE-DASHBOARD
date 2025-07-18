@@ -59,7 +59,7 @@ The dashboard delivers clear, actionable insights into sales, profits, and produ
 
 ### **Screenshots**  
 **Sales Overview Dashboard**  
-![Sales Overview](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/dark%20dashboard.png)  
+![Sales Overview](https://github.com/RyanLi11/XGRIP-EXECUTIVE-DASHBOARD/blob/main/Snapshot%20of%20Dashboard%20Light%20Mode.png)
 
 **Product Analysis Dashboard**  
 ![Product Analysis](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/product.png)  
