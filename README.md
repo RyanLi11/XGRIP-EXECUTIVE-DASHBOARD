@@ -12,13 +12,13 @@ I built an interactive and user-friendly Power BI dashboard for XGRIP, a simulat
 ## **Action**  
 
 ### **Key Features**  
-- **Data Integration:** Unified data from PostgreSQL, MySQL, Excel, CSV, and PDF formats.  
-- **Currency Standardization:** Converted diverse currencies to USD for consistency across regions.  
-- **Profitability Analysis:** Incorporated COGS, discounts, and quantities for accurate profit metrics.  
-- **Interactive Dashboards:** Added slicers, custom panes, and drillthrough buttons for in-depth analysis.  
-- **Scheduled Data Refresh:** Enabled seamless updates through Power BI Gateway.  
+- **Multi-Source Data Integration:** Connected and cleaned data from PostgreSQL, MySQL, Excel, CSV, and PDF files to create a unified model.  
+- **Currency Standardization:** Converted all regional currencies to USD for consistent, cross-country analysis.
+- **Profitability Analysis:** Calculated key metrics by incorporating COGS, discounts, and quantities for accurate profit analysis.  
+- **Interactive Visuals:** Designed dynamic dashboards with slicers, custom panes, drillthroughs, and bookmarks for better user navigation.
+- **Scheduled Data Refresh:**  Scheduled daily data updates using Power BI Gateway to ensure up-to-date reporting.
 - **Advanced DAX Calculations:** Created KPIs for revenue, profit margin, and YoY sales growth.  
-- **Row-Level Security (RLS):** Secured sensitive data based on user roles.
+- **Row-Level Security (RLS):** Implemented role-based access controls to protect sensitive data and limit visibility by user level.
 
 ### **Technology Stack**  
 - **Data Sources:** PostgreSQL, MySQL, Excel, CSV, PDF.  
