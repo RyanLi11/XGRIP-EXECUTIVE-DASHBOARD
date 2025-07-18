@@ -73,7 +73,7 @@ The dashboard delivers clear, actionable insights into sales, profits, and produ
 ---
 
 ## **Access the Dashboard**  
-Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/view?r=eyJrIjoiMDE5N2U2ZTAtZDA2Zi00MDgyLWI0MjMtZTlkYjc1ODc0MWVkIiwidCI6ImY3NDM5NmYzLTgwMTUtNGI3NC1iNDY4LWNkYTA0NTEzZDg0YyJ9)**  
+Explore the live dashboard here: **[Link to Online Reports Page](https://app.powerbi.com/links/-1R7DUXZJ5?ctid=51cca0e1-2d5a-4d1b-aa9a-ddaaa78aeec2&pbi_source=linkShare&bookmarkGuid=b4585775-64e8-421e-a3c8-d972f765c01e)**  
 
 ---
 
