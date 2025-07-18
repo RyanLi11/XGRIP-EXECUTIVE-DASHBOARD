@@ -68,7 +68,7 @@ The dashboard delivers clear, actionable insights into sales, profits, and produ
 ![Map Analysis](https://github.com/RyanLi11/XGRIP-EXECUTIVE-DASHBOARD/blob/main/Map%20page.png)  
 
 **Light and Dark Mode Example**  
-![Light and Dark Mode](https://github.com/najirh/XGRIP-Power-BI-Executive-Dashboard/blob/main/light%20dashboard.png)
+![Light and Dark Mode](https://github.com/RyanLi11/XGRIP-EXECUTIVE-DASHBOARD/blob/main/Snapshot%20of%20Dashboard%20Dark%20Mode.png)
 
 ---
 
